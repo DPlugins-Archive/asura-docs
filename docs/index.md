@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /logo.svg
+heroImage: https://raw.githubusercontent.com/oxyrealm/asura-docs/main/docs/logo.svg
 heroAlt: Asura Logo
 heroText: Asura
 tagline: "License Management Plugin for Oxygen Builder Design Sets Creator"
