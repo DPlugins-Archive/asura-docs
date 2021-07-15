@@ -1,4 +1,4 @@
-/dist
+/docs/.vitepress/dist
 /languages
 /node_modules
 /storage/*.key
