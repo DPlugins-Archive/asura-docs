@@ -1,0 +1,24 @@
+{
+  "name": "asura-docs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oxyrealm/asura-docs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oxyrealm/asura-docs/issues"
+  },
+  "homepage": "https://github.com/oxyrealm/asura-docs#readme",
+  "devDependencies": {
+    "vitepress": "^0.15.6"
+  }
+}
