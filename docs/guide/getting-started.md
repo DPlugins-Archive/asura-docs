@@ -61,7 +61,6 @@ If you have a copy of the plugin as a zip file, you can manually upload it and i
 +------+----------------------------------------------------------+-------+
 ```
 
-
 Please read the [official documentation](https://wordpress.org/support/article/managing-plugins/#manual-upload-via-wordpress-admin) for plugin installation instructions.
 
 
@@ -97,6 +96,7 @@ When the new version is avaiable, you will get the update notification and do up
 Now that you have install your Asura plugin, you may be wondering what to learn next. First, we strongly recommend becoming familiar with how Asura works by reading the following documentation:
 
 - [API](./api)
+- [Design Set](./design-set)
 <!-- - [Remote](./remote) -->
 <!-- - [License](./license) -->
 
