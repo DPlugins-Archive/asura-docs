@@ -32,14 +32,7 @@ module.exports = {
             { text: 'Design Sets', link: '/guide/design-set' },
             { text: 'Generator', link: '/guide/generator' },
             { text: 'License', link: '/guide/license' },
-            {
-              text:
-                'E-Commerce Integration', link: '/guide/ecommerce-integration',
-              children: [
-                { text: 'WooCommerce', link: '/guide/woocommerce' },
-                { text: 'Easy Digital Downloads', link: '/guide/easydigitaldownloads' },
-              ]
-            }
+            { text: 'E-Commerce Integration', link: '/guide/ecommerce-integration' },
           ]
         },
         {

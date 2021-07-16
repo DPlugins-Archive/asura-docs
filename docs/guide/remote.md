@@ -7,7 +7,7 @@ To allow you to manage your installed Asura, you need to generate a new API cred
 
 ## Register new Remote
 
-To register new target site, you can follow the guide on [API credential for Remote feature](http://localhost:3000/guide/api.html#api-credential-for-remote-feature) section.
+To register new target site, you can follow the guide on [API credential for Remote feature](./api#api-credential-for-remote-feature) section.
 
 
 ## Manage the Content on the Target Site

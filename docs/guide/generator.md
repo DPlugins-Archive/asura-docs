@@ -26,7 +26,7 @@ Instead of creating the license manually one by one, you can use the generator t
 2. Click the **Generators** tab at the top of the screen.
 3. Choose which generator you want to use to bulk generate the license from the list table, and click the “Generate” link.
 4. Fill the “Amount” field with any number. A higher number will generate more license.
-5. Tick the “Status” checkbox if you want to enable the license. 
+5. Tick the “Status” checkbox if you want to enable the license.
 6. Fill the “User” field if you want to assign the generated license to a user.
 7. click the **Submit** button.
 8. When submission is complete, you’ll see the new license(s) on the Licenses list table.
