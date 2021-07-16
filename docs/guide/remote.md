@@ -23,5 +23,5 @@ Any change and action you made will be happened on the target site.
 
 :::danger
 Making change to the APIs on the target site that you have registered on the Remote feature, could affecting your access to the target site.
-If you have loss connection to target site, you need to gain back the access by following the guide on **[Register new Remote](./register-new-remote)** section.
+If you have loss connection to target site, you need to gain back the access by following the guide on **[Register new Remote](#register-new-remote)** section.
 :::
