@@ -68,9 +68,10 @@ If you bought or given access to a design set from the _Provider_, you’ll be g
 
 1. Navigate to **Aether > Asura Connector**
 2. Click the **Manage License** button from some Provider on the list table.
-3. Fill the “License Key” field with the **`license key`** from your _Provider_, and click the **+ Add** button.
-4. Back to previous page, and click the **Install Wizard** button on the list table. You’ll see the design set list from your license
-5. **(Optional)** If you just start a new website, you may want to install a complete website (demo website) from the design set. Adjust the options and click the “Install” link on the design set you are want to install. The action will import the configuration from the _Provider_’s site.
+3. Fill the “License Key” field with the **`license key`** from your _Provider_.
+4. Click the **+ Add** button.
+5. Back to previous page, and click the **Install Wizard** button on the list table. You’ll see the design set list from your license
+6. **(Optional)** If you just start a new website, you may want to install a complete website (demo website) from the design set. Adjust the options and click the “Install” link on the design set you are want to install. The action will import the configuration from the _Provider_’s site.
 
 ::: warning BE CAREFULL
 Installing a complete website from the design set will deactivate/overwrite your existing design configuration.

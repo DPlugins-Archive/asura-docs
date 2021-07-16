@@ -16,10 +16,11 @@ To allow you to manage your Asura on target site, you need to generate a new API
 1. Navigate to **Aether > Asura**
 2. Click the **APIs** tab at the top of the screen.
 3. Click the **Add New** button on the top of the screen.
-4. Fill the “Label” field with any name, and click the **Submit** button.
-5. When submission is complete, you’ll see a new API credential on the APIs list table.
-6. Click the **Clipboard** button on the `Permission` column. The **`connector string`** will copied to your clipboard.
-7. Save the **`connector string`** into _notepad_ or _textedit_ for later use on the **main site**.
+4. Fill the “Label” field with any name
+5. click the **Submit** button.
+6. When submission is complete, you’ll see a new API credential on the APIs list table.
+7. Click the **Clipboard** button on the `Permission` column. The **`connector string`** will copied to your clipboard.
+8. Save the **`connector string`** into _notepad_ or _textedit_ for later use on the **main site**.
 
 
 ### On the main site:
