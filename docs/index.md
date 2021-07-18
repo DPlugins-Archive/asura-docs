@@ -7,7 +7,7 @@ tagline: "License Management Plugin for Oxygen Builder Design Sets Creator"
 actionText: Get Started
 actionLink: /guide/getting-started
 altActionText: Download
-altActionLink: https://dplugins.com/asura
+altActionLink: https://go.oxyrealm.com/asura
 features:
   - title: Licenses Management
     details: Through simple, intuitive interfaces the Design set Licensing system allows site admins to easily view and manage customer license keys.

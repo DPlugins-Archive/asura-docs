@@ -14,6 +14,7 @@ module.exports = {
     lastUpdated: 'Last Updated',
 
     nav: [
+      { text: 'Download Asura', link: 'https://go.oxyrealm.com/asura' },
       { text: 'Guide', link: '/guide/getting-started', activeMatch: '^/guide/' },
       {
         text: 'Release Notes',
