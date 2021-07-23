@@ -22,6 +22,6 @@ const { Layout } = DefaultTheme
     <template #home-features>
       <HomeShowcase />
     </template>
-    <GoogleAnalytics />
   </Layout>
+  <GoogleAnalytics />
 </template>
