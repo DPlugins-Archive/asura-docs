@@ -14,6 +14,6 @@ onMounted(() => {
 
         gtag('config', 'G-G1NG01LWQV');
     `;
-    window.document.body.appendChild(googleAnalyticsBodyScript);
+    document.body.appendChild(googleAnalyticsBodyScript);
 });
 </script>
