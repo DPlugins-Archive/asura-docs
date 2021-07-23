@@ -20,7 +20,7 @@ features:
   - title: 🛠️ Flexible
     details: "The License System allows you to set an expiration date and limit the # of activations of each license."
   - title: 📦 White Label
-    details: Build your brand awareness with the open source Client plugin.
+    details: Build your brand awareness with the open source Client plugin (Asura Connector).
   - title: 🎨 Multiple Design Sets
     details: Host multiple design sets in a single WordPress installation, except you need to use the universal CSS.
   - title: 🛒 eCommerce Integration
