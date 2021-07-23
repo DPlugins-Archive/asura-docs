@@ -42,5 +42,5 @@ showcases:
     logo: https://oxidize.co/wp-content/uploads/2020/12/Oxide-Logo-1-300x300.png
   - name: Your Designset?
     url: https://github.com/oxyrealm/asura-docs/issues/new
-    logo: /images/showcase-yours.png
+    logo: images/showcase-yours.png
 ---
