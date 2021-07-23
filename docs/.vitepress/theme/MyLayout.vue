@@ -1,7 +1,6 @@
 <script setup>
 import DefaultTheme from 'vitepress/theme'
 import HomeShowcase from './HomeShowcase.vue'
-import GoogleAnalytics from './GoogleAnalytics.vue'
 const { Layout } = DefaultTheme
 </script>
 
@@ -23,5 +22,4 @@ const { Layout } = DefaultTheme
       <HomeShowcase />
     </template>
   </Layout>
-  <GoogleAnalytics />
 </template>
