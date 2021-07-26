@@ -103,7 +103,7 @@ Now that you have install your Asura plugin, you may be wondering what to learn 
 
 ### Older Databaser Support
 
-Asura recommend you to use the latest / in active maintanion version of database. In case upgrading to latest version of database is not possible, you need to take manual action to allow Asura run.
+Asura recommend you to use the latest / in active maintenance version of database. In case upgrading to latest version of database is not possible, you need to take manual action to allow Asura run.
 
 #### Column Data Type
 
