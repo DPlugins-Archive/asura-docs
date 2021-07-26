@@ -107,7 +107,7 @@ Asura recommend you to use the latest / in active maintenance version of databas
 
 #### Column Data Type
 
-As of MySQL 5.7.8, MySQL supports a native JSON data type defined by RFC 7159 that enables efficient access to data in JSON (JavaScript Object Notation) documents.
+A native JSON data type support is only available since MySQL 5.7.8.
 
 You may configure the database migration by commenting the `$table->json( 'payload' );` and uncomment the `$table->longText( 'payload' );` code:
 
