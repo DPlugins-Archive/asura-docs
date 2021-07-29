@@ -1,6 +1,7 @@
 <script setup>
 import DefaultTheme from 'vitepress/theme'
 import HomeShowcase from './HomeShowcase.vue'
+import HomeReview from './HomeReview.vue'
 const { Layout } = DefaultTheme
 </script>
 
@@ -20,6 +21,7 @@ const { Layout } = DefaultTheme
     
     <template #home-features>
       <HomeShowcase />
+      <HomeReview />
     </template>
   </Layout>
 </template>
