@@ -7,12 +7,12 @@ module.exports = {
   head: [
     ['meta', { property: 'og:title', content: 'Asura' }],
     ['meta', { property: 'og:type', content: 'website' }],
-    ['meta', { property: 'og:image', content: 'https://i1.wp.com/i.ytimg.com/vi/bxdkdLZDFlQ/maxresdefault.jpg?ssl=1' }],
-    ['meta', { property: 'og:image:secure_url', content: 'https://i1.wp.com/i.ytimg.com/vi/bxdkdLZDFlQ/maxresdefault.jpg?ssl=1' }],
+    ['meta', { property: 'og:image', content: 'https://i1.wp.com/raw.githubusercontent.com/oxyrealm/asura-docs/main/docs/images/asura-banner.png?ssl=1' }],
+    ['meta', { property: 'og:image:secure_url', content: 'https://i1.wp.com/raw.githubusercontent.com/oxyrealm/asura-docs/main/docs/images/asura-banner.png?ssl=1' }],
     ['meta', { property: 'og:image:width', content: '1280' }],
     ['meta', { property: 'og:image:height', content: '720' }],
     ['meta', { property: 'og:image:alt', content: 'License Management Plugin for Oxygen Builder Design Sets Creator' }],
-    ['link', { rel: 'icon', href: 'https://i1.wp.com/raw.githubusercontent.com/oxyrealm/asura-docs/main/docs/images/asura-banner.png?ssl=1' }],
+    ['link', { rel: 'icon', href: 'https://raw.githubusercontent.com/oxyrealm/asura-docs/main/docs/logo.svg' }],
   ],
 
   themeConfig: {
