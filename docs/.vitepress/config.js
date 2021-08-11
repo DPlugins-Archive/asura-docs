@@ -12,7 +12,7 @@ module.exports = {
     ['meta', { property: 'og:image:width', content: '1280' }],
     ['meta', { property: 'og:image:height', content: '720' }],
     ['meta', { property: 'og:image:alt', content: 'License Management Plugin for Oxygen Builder Design Sets Creator' }],
-    ['link', { rel: 'icon', href: 'https://raw.githubusercontent.com/oxyrealm/asura-docs/main/docs/logo.svg' }],
+    ['link', { rel: 'icon', href: 'https://i1.wp.com/raw.githubusercontent.com/oxyrealm/asura-docs/main/docs/images/asura-banner.png?ssl=1' }],
   ],
 
   themeConfig: {
