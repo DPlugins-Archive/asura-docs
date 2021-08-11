@@ -30,17 +30,17 @@ features:
 showcases:
   - name: oxyblock
     url: https://oxyblock.xyz
-    logo: https://oxyblock.xyz/wp-content/uploads/2020/12/logo.png
+    logo: https://i1.wp.com/oxyblock.xyz/wp-content/uploads/2020/12/logo.png
   - name: oxyboot
     url: https://www.oxyboot.com
-    logo: https://www.oxyboot.com/wp-content/uploads/2021/02/Oxy-Boot-Logo-PNG_cropped.png
+    logo: https://i1.wp.com/www.oxyboot.com/wp-content/uploads/2021/02/Oxy-Boot-Logo-PNG_cropped.png
   - name: oxymonkey
     url: https://oxymonkey.com
     logo: https://oxymonkey.com/wp-content/uploads/2021/07/oxymonkey-logo-svg-white-2.svg
   - name: oxydize
     url: https://oxidize.co
-    logo: https://oxidize.co/wp-content/uploads/2020/12/Oxide-Logo-1-300x300.png
+    logo: https://i1.wp.com/oxidize.co/wp-content/uploads/2020/12/Oxide-Logo-1-300x300.png
   - name: Your Designset?
     url: https://github.com/oxyrealm/asura-docs/issues/new
-    logo: https://raw.githubusercontent.com/oxyrealm/asura-docs/main/docs/images/showcase-yours.png
+    logo: https://i1.wp.com/raw.githubusercontent.com/oxyrealm/asura-docs/main/docs/images/showcase-yours.png
 ---

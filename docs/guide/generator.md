@@ -1,5 +1,8 @@
 # Generator
 
+<br>
+<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/lomSCrw4Pyc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 The generator helps you predefined some configuration to allowing you to bulk license generation and automate the selling of your design sets with WooCommerce or Easy Digital Downloads without manually creating the license for each purchase.
 
 

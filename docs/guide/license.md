@@ -1,5 +1,8 @@
 # License
 
+<br>
+<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/o5tPzaWX6xg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 To manage access to your design sets, you need to create a license. Define which design set that the license can access, the expiration of the license, and the number of the license activation.
 
 
