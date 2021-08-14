@@ -92,6 +92,6 @@ Click an element to add it to your page.
 
 ![oxygen editor](https://26bf1td05du17c1e8350wwjp-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/d-dropbox-upwork-manuals-oxygen-design-library-2.png)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YhoHYahyjxg?start=64" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="youtube-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/YhoHYahyjxg?start=64" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 For complete instructions, you may read the official documentation on [OxygenBuilder.com site](https://oxygenbuilder.com/documentation/design-library/library-overview/)

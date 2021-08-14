@@ -6,6 +6,11 @@ The workflow of where the user was waiting for the license to be delivered, even
 Hence, tha Asura plugin bundled with native integration for popular e-commerce platform such as WooCommerce and Easy Digital Downloads. **Selling design sets made easy!**
 
 
+<div class="youtube-container"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/ThVEEm50Zt4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<br>
+<div class="youtube-container"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/6ncIUQLReYs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+
 ## Prerequisite
 
 1. Navigate to **Aether > Asura**

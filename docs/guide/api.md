@@ -1,7 +1,7 @@
 # API
 
 <br>
-<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/bI2yno3MkWI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="youtube-container"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/bI2yno3MkWI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Asura uses the API system on its core, allowing to manage Asura on multiple websites from a single admin page with fully AJAX experience using the [Remote](./remote) feature.
 

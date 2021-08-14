@@ -6,14 +6,14 @@
 
 
 <br>
-<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/MFVLqjeiYog" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="youtube-container"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/MFVLqjeiYog" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ## Installation
 
 
 ### Server Requirements
 
-The Asura plugin has a few system requirements. Of course, all of these requirements are satisfied by the modern hosting, so it's highly recommended that you use modern hosting to run the Asura plugin. 
+The Asura plugin has a few system requirements. Of course, all of these requirements are satisfied by the [modern hosting](https://www.digitalocean.com/?refcode=acb41ca21dc2), so it's highly recommended that you use [modern hosting](https://www.digitalocean.com/?refcode=acb41ca21dc2) to run the Asura plugin. 
 
 You will need to make sure your server meets the following requirements:
 
@@ -28,7 +28,7 @@ You will need to make sure your server meets the following requirements:
 The Asura plugin is requiring the [Aether plugin](https://wordpress.org/plugins/aether) installed on your WordPress.
 :::
 
-<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/rcKrTAjNpQE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="youtube-container"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/rcKrTAjNpQE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 
 ### Installing Aether
@@ -98,7 +98,7 @@ Get the latest version of Asura plugin by registering your installed plugin on t
 3. Input your plugin license key in the “License Key” field.
 4. Click **Save Changes** button to register your installed plugin.
 
-When the new version is avaiable, you will get the update notification and do updater right on the **Dashboard > Updates**.
+When the new version is avaiable, you will get the update notification and do update right on the **Dashboard > Updates**.
 
 ### Next Steps
 
@@ -108,6 +108,8 @@ Now that you have install your Asura plugin, you may be wondering what to learn 
 - [API](./api)
 - [Remote](./remote)
 - [License](./license)
+
+<section class="video-lesson"><a href="https://youtube.com/playlist?list=PLaN3YIeFObKkVsfR-gcRHaDfoOM0ej8Rz" target="_blank" title="Watch the full video course on dPlugins's YouTube Channel">Watch the full video course on dPlugins's YouTube Channel</a></section>
 
 
 ### Older Databaser Support
