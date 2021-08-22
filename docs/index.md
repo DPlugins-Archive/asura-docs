@@ -37,6 +37,11 @@ showcases:
   - name: oxymonkey
     url: https://oxymonkey.com
     logo: https://oxymonkey.com/wp-content/uploads/2021/07/oxymonkey-logo-svg-white-2.svg
+    img_style: "background:black;"
+  - name: oxyblocks
+    url: https://oxyblocks.com
+    logo: https://oxyblocks.com/wp-content/uploads/oxyblocks-logo.svg
+    img_style: "background:black;"
   - name: oxydize
     url: https://oxidize.co
     logo: https://i1.wp.com/oxidize.co/wp-content/uploads/2020/12/Oxide-Logo-1-300x300.png

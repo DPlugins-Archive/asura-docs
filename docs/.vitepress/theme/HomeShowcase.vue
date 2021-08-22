@@ -42,6 +42,7 @@ const showcases = computed<Feature[]>(() => {
                 :src="showcase.logo"
                 :alt="showcase.name"
                 class="logo"
+                :style="showcase.img_style ?? ''"
               >
             </a>
           </section>
@@ -120,13 +121,19 @@ const showcases = computed<Feature[]>(() => {
 
 .showcase {
   flex-shrink: 0;
-  padding: 20px 24px;
+  padding: 15px 19px;
   width: 100%;
+  border-radius: 12px;
+}
+
+.showcase img {
+  border-radius: 12px;
+  padding: 5px;
 }
 
 @media (min-width: 720px) {
   .showcase {
-    width: calc(100% / 5);
+    width: calc(100% / 4);
     text-align: center;
   }
 }
