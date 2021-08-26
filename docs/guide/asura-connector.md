@@ -3,6 +3,7 @@
 [Asura Connector](https://wordpress.org/plugins/asura-connector) is the Client plugin for accessing the design set from the creator or seller (let say “_Provider_”).
 The plugin is fully integrated with the Oxygen Builder, and you will able to access the design set right on your Oxygen Editor.
 
+<div class="youtube-container"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/Kprjaf-twFw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ## Installation
 
