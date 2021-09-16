@@ -12,7 +12,7 @@ You can bulk generate license using the Generator. Read the guide on the [Creati
 
 You also able to create license manually.
 
-1. Navigate to **Aether > Asura**
+1. Navigate to **Oxygen > Asura**
 2. Click the **Licenses** tab at the top of the screen.
 3. Click the **Add New** button on the top of the screen.
 4. Fill the “License Key” field with string. The value should be unique.
