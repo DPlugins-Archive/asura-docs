@@ -8,7 +8,7 @@ The generator helps you predefined some configuration to allowing you to bulk li
 
 ## Creating Generator
 
-1. Navigate to **Aether > Asura**
+1. Navigate to **Oxygen > Asura**
 2. Click the **Generators** tab at the top of the screen.
 3. Click the **Add New** button on the top of the screen.
 4. Fill the “Label” field with any name.
@@ -25,7 +25,7 @@ The generator helps you predefined some configuration to allowing you to bulk li
 
 Instead of creating the license manually one by one, you can use the generator to bulk generate the license. To creating a generator, you can follow the [Previous section](#creating-generator).
 
-1. Navigate to **Aether > Asura**
+1. Navigate to **Oxygen > Asura**
 2. Click the **Generators** tab at the top of the screen.
 3. Choose which generator you want to use to bulk generate the license from the list table, and click the “Generate” link.
 4. Fill the “Amount” field with any number. A higher number will generate more license.

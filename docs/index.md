@@ -40,7 +40,7 @@ showcases:
     img_style: "background:black;"
   - name: oxyblocks
     url: https://oxyblocks.com
-    logo: https://oxyblocks.com/wp-content/uploads/oxyblocks-logo.svg
+    logo: https://oxyblocks.com/wp-content/uploads/oxyblocks-full.svg
     img_style: "background:black;"
   - name: oxydize
     url: https://oxidize.co

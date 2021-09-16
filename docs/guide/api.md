@@ -16,7 +16,7 @@ To allow you to manage your Asura on target site, you need to generate a new API
 
 
 ### On the target site:
-1. Navigate to **Aether > Asura**
+1. Navigate to **Oxygen > Asura**
 2. Click the **APIs** tab at the top of the screen.
 3. Click the **Add New** button on the top of the screen.
 4. Fill the “Label” field with any name
@@ -27,7 +27,7 @@ To allow you to manage your Asura on target site, you need to generate a new API
 
 
 ### On the main site:
-1. Navigate to **Aether > Asura**
+1. Navigate to **Oxygen > Asura**
 2. Click the **Remotes** tab at the top of the screen.
 3. Click the **Add New** button on the top of the screen.
 4. Fill the “Connector String” field with **`connector string`** from [previous section](#on-the-target-site), and click the **Submit** button.

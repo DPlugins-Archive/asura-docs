@@ -17,22 +17,6 @@ You will need to make sure your server meets the following requirements:
 - PHP 7.4+
 - WordPress 5.5+
 
-::: tip DEPENDENCY
-The Asura Connector plugin is requiring the [Aether plugin](https://wordpress.org/plugins/aether) installed on your WordPress.
-:::
-
-
-### Installing Aether
-This is the simplest method of installing a plugin. To add a plugin using the built-in plugin installer:
-
-1. Navigate to **Plugins > Add New**.
-2. Use the search form in the top-right to search “**Aether**”.
-3. On the search results that appear, click a plugin’s title to read more about it. This page may contain installation notes, plugin documentation or other useful information.
-4. Click the **Install Now** button to install the plugin.
-5. Click **Activate** to activate the plugin.
-
-Please read the [official documentation](https://wordpress.org/support/article/managing-plugins/#automatic-plugin-installation) for plugin installation instructions.
-
 
 ### Installing Asura Connector
 
@@ -59,7 +43,7 @@ If you bought or given access to a design set from the _Provider_, you’ll be g
 
 ### Adding Provider
 
-1. Navigate to **Aether > Asura Connector**
+1. Navigate to **Oxygen > Asura Connector**
 2. Click the **Add New Provider** button on the top right of the screen.
 3. Fill the “Connector String” field with the **`connector string`** from your _Provider_, and click the **Save** button.
 4. When submission is complete, you’ll see a new Provider on the list table.
@@ -67,7 +51,7 @@ If you bought or given access to a design set from the _Provider_, you’ll be g
 
 ### Adding License
 
-1. Navigate to **Aether > Asura Connector**
+1. Navigate to **Oxygen > Asura Connector**
 2. Click the **Manage License** button from some Provider on the list table.
 3. Fill the “License Key” field with the **`license key`** from your _Provider_.
 4. Click the **+ Add** button.
