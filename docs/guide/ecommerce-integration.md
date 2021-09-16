@@ -13,7 +13,7 @@ Hence, tha Asura plugin bundled with native integration for popular e-commerce p
 
 ## Prerequisite
 
-1. Navigate to **Aether > Asura**
+1. Navigate to **Oxygen > Asura**
 2. Click the **Remotes** tab at the top of the screen.
 3. Choose and take a note the remote’s id on the `Site` column from the Remotes list table.
 4. Click the **Generators** tab at the top of the screen.
@@ -25,7 +25,7 @@ Hence, tha Asura plugin bundled with native integration for popular e-commerce p
 
 ### WooCommerce
 
-1. Navigate to **Aether > Asura**
+1. Navigate to **Oxygen > Asura**
 2. Click the **Settings** tab at the top of the screen.
 3. Click the **WooCommerce** sub-tab.
 4. Tick the “Enable Integration” checkbox.
@@ -36,7 +36,7 @@ Hence, tha Asura plugin bundled with native integration for popular e-commerce p
 
 ### Easy Digital Downloads
 
-1. Navigate to **Aether > Asura**
+1. Navigate to **Oxygen > Asura**
 2. Click the **Settings** tab at the top of the screen.
 3. Click the **Easy Digital Downloads** sub-tab.
 4. Tick the “Enable Integration” checkbox.
