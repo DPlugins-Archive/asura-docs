@@ -24,23 +24,7 @@ You will need to make sure your server meets the following requirements:
 - OpenSSL PHP Extension
 - Mbstring PHP Extension
 
-::: tip DEPENDENCY
-The Asura plugin is requiring the [Aether plugin](https://wordpress.org/plugins/aether) installed on your WordPress.
-:::
-
 <div class="youtube-container"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/rcKrTAjNpQE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
-
-### Installing Aether
-This is the simplest method of installing a plugin. To add a plugin using the built-in plugin installer:
-
-1. Navigate to **Plugins > Add New**.
-2. Use the search form in the top-right to search “**Aether**”.
-3. On the search results that appear, click a plugin’s title to read more about it. This page may contain installation notes, plugin documentation or other useful information.
-4. Click the **Install Now** button to install the plugin.
-5. Click **Activate** to activate the plugin.
-
-Please read the [official documentation](https://wordpress.org/support/article/managing-plugins/#automatic-plugin-installation) for plugin installation instructions.
 
 
 ### Installing Asura
@@ -54,7 +38,7 @@ If you have a copy of the plugin as a zip file, you can manually upload it and i
 3. Select the zip file from your local filesystem.
 4. Click the **Install Now** button.
 5. When installation is complete, you’ll see “Plugin installed successfully.” Click the **Activate Plugin** button at the bottom of the page.
-6. Navigate to **Aether > Asura**
+6. Navigate to **Oxygen > Asura**
 7. Click the **System Info** tab at the top of the screen.
 8. Click **Get Dababase Migration Status** button to get status of database migration status. Make sure the printed status is **Yes** for the `Ran?` column for each row. If you get different status, try to re-activate the plugin.
 
@@ -81,7 +65,7 @@ The API system is requiring credentials to authorize each action and access.
 
 To allow you to manage your local installed Asura, you need to generate a new API credential with full access and register the API credential to the Remote management.
 
-1. Navigate to **Aether > Asura**
+1. Navigate to **Oxygen > Asura**
 2. Click the **Remotes** tab at the top of the screen.
 3. Click the **Initiate 🌱** button on the top right of the screen.
 4. When initialization is complete, you’ll see a new remote on the Remotes list table and a new API on the APIs list table.
@@ -93,7 +77,7 @@ Now you are able to manage your local installed Asura.
 
 Get the latest version of Asura plugin by registering your installed plugin on the admin page.
 
-1. Navigate to **Aether > Asura**
+1. Navigate to **Oxygen > Asura**
 2. Click the **Settings** tab at the top of the screen.
 3. Input your plugin license key in the “License Key” field.
 4. Click **Save Changes** button to register your installed plugin.
