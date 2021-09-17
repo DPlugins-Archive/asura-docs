@@ -19,7 +19,7 @@ You will need to make sure your server meets the following requirements:
 
 - PHP 7.4+
 - WordPress 5.5+
-- MySQL 5.7.7+ or MariaDB 10.2.2+ (*[old database support](http://localhost:3000/guide/getting-started.html#older-databaser-support))
+- MySQL 5.7.7+ or MariaDB 10.2.2+ (*[old database support](#older-databaser-support))
 - PDO PHP Extension
 - OpenSSL PHP Extension
 - Mbstring PHP Extension
